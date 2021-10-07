@@ -2,7 +2,7 @@
 *{
   box-sizing: border-box;
   font-family: 'Noto Sans Display', sans-serif;
-  background-color: #ffd1f7;
+  background-color: #ffe3ff;
   margin: 0;
 }
 /*MAIN*/
@@ -25,7 +25,7 @@
 }
 .footer {
   font-size: 14px;
-  font-weight: 100;
+  font-weight: 200;
   color: #969596;
   letter-spacing: 0.05em;
 }
