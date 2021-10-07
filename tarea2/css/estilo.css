@@ -1,0 +1,40 @@
+/*GENERAL*/
+*{
+  box-sizing: border-box;
+  font-family: 'Noto Sans Display', sans-serif;
+  background-color: #ffd1f7;
+  margin: 0;
+}
+/*MAIN*/
+.titulo{
+  font-size: 30px;
+}
+.sub {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 16.5px;
+  letter-spacing: 0.6px;
+  color: #6C6C6C;
+  margin-bottom: 10px;
+}
+.cuerpo {
+  margin-right: 5px;
+  font-size: 15px;
+  font-weight: 300;
+  color: #6C6C6C;
+}
+.footer {
+  font-size: 14px;
+  font-weight: 100;
+  color: #969596;
+  letter-spacing: 0.05em;
+}
+.imagen {
+  margin-left: 40px;
+  margin-bottom: 50px;
+  float: right;
+  width: 500px;
+  height: 300px;
+}
+
+
